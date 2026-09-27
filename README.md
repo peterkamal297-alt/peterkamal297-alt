@@ -1,26 +1,28 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:07111F,50:0B2D4D,100:0F6CBD&height=230&section=header&text=Peter%20Kamal%20Faltas&fontSize=46&fontColor=FFFFFF&fontAlignY=35&desc=Junior%20Oracle%20Database%20Administrator&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:07111F,50:0B2D4D,100:0F6CBD&height=220&section=header&text=Peter%20Kamal%20Faltas&fontSize=42&fontColor=FFFFFF&fontAlignY=35&desc=Junior%20Oracle%20Database%20Administrator&descAlignY=60&descSize=18&animation=fadeIn" width="100%"/>
 
-<h2>Junior Oracle Database Administrator</h2>
+# 🚀 Junior Oracle Database Administrator
 
-<p>
-  <strong>Oracle Database 19c · Linux · RMAN · Data Guard · RAC · OEM</strong>
+<p align="center">
+  <strong>Oracle Database 19c &bull; Linux (RHEL/OL) &bull; RMAN &bull; Data Guard &bull; RAC &bull; OEM 13c</strong>
 </p>
 
-<p>
-  <a href="https://www.linkedin.com/in/peter-kamal-faltas-859509232">LinkedIn</a>
-  &nbsp;•&nbsp;
-  <a href="https://github.com/peterkamal297-alt">GitHub</a>
-  &nbsp;•&nbsp;
-  <a href="https://github.com/peterkamal297-alt/oracle-dba-lab-portfolio/blob/main/Peter_Kamal_Faltas_CV.pdf">Download CV</a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/peter-kamal-faltas-859509232" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  &nbsp;&bull;&nbsp;
+  <a href="https://github.com/peterkamal297-alt" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
+  &nbsp;&bull;&nbsp;
+  <a href="https://github.com/peterkamal297-alt/oracle-dba-lab-portfolio/raw/main/Peter_Kamal_Faltas_CV.pdf" target="_blank"><img src="https://img.shields.io/badge/Download_CV-F80000?style=flat-square&logo=adobeacrobatreader&logoColor=white"/></a>
+  &nbsp;&bull;&nbsp;
+  <a href="mailto:peterkamal297@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
 </p>
 
-<p>
+<p align="center">
   📍 <strong>Cairo, Egypt</strong>
 </p>
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Oracle-19c-F80000?style=flat-square&logo=oracle&logoColor=white"/>
   <img src="https://img.shields.io/badge/Oracle%20Linux-8-FCC624?style=flat-square&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/RMAN-Backup%20%26%20Recovery-334155?style=flat-square"/>
@@ -31,61 +33,32 @@
 
 </div>
 
-<br>
+---
 
 <div align="center">
 
-<strong>
-  <a href="#-about-me">ABOUT</a>
-  &nbsp;•&nbsp;
-  <a href="#-oracle-dba-lab">LAB</a>
-  &nbsp;•&nbsp;
-  <a href="#-projects--documentation">PROJECTS</a>
-  &nbsp;•&nbsp;
-  <a href="#-skills">SKILLS</a>
-  &nbsp;•&nbsp;
-  <a href="#-environment">ENVIRONMENT</a>
-  &nbsp;•&nbsp;
-  <a href="#-cv">CV</a>
-  &nbsp;•&nbsp;
-  <a href="#-contact">CONTACT</a>
-</strong>
+| [About](#-about-me) | [Lab Workflow](#-oracle-dba-lab) | [Projects & Docs](#-projects--documentation) | [Skills](#️-skills) | [Environment](#️-environment) | [CV](#-cv) | [Contact](#-contact) |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 
 </div>
-
-<br>
 
 ---
 
 ## 👨‍💻 About Me
 
-Junior Oracle Database Administrator with hands-on experience building, configuring, and administering Oracle Database 19c environments on Linux using VMware.
+Junior Oracle Database Administrator with hands-on experience building, configuring, and administering enterprise-grade **Oracle Database 19c** environments on Linux using VMware. 
 
-This portfolio documents my practical Oracle DBA lab work, including installation, database administration, backup and recovery, high availability, monitoring, and troubleshooting.
-
-My main focus areas are:
-
-- Linux Administration
-- Oracle Database 19c
-- Oracle DBA Administration
-- RMAN Backup & Recovery
-- Oracle Data Guard
-- Oracle RAC & Grid Infrastructure
-- Oracle Enterprise Manager
+This repository documents my comprehensive practical Oracle DBA lab work, focusing on architecture, installation, database administration, disaster recovery, high availability, monitoring, and troubleshooting.
 
 ---
 
 ## 🧪 Oracle DBA Lab
 
-This portfolio contains step-by-step documentation of my Oracle DBA practice environment.
-
-Each section includes practical commands, configuration steps, verification, screenshots, and troubleshooting notes where applicable.
+Every lab section in this portfolio is built around a rigorous, real-world DBA workflow:
 
 <div align="center">
 
-### DBA Workflow
-
-`Build` → `Configure` → `Administer` → `Protect` → `Monitor` → `Troubleshoot` → `Verify`
+`Build` ➔ `Configure` ➔ `Administer` ➔ `Protect` ➔ `Monitor` ➔ `Troubleshoot` ➔ `Verify`
 
 </div>
 
@@ -93,414 +66,111 @@ Each section includes practical commands, configuration steps, verification, scr
 
 ## 📚 Projects & Documentation
 
-<table>
-  <tr>
-    <th align="center">#</th>
-    <th>Project</th>
-    <th>Main Topics</th>
-    <th align="center">Project</th>
-    <th align="center">PDF</th>
-  </tr>
-
-  <tr>
-    <td align="center"><strong>01</strong></td>
-    <td><strong>🐧 Linux Administration</strong></td>
-    <td>Linux commands, users, permissions, processes, services, networking, storage</td>
-    <td align="center">
-      <a href="https://github.com/peterkamal297-alt/oracle-dba-lab-portfolio/tree/main/01-linux-administration">📁 Open</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/peterkamal297-alt/oracle-dba-lab-portfolio/blob/main/01-linux-administration/linux-administration.pdf">📄 Administration</a>
-      <br>
-      <a href="https://github.com/peterkamal297-alt/oracle-dba-lab-portfolio/blob/main/01-linux-administration/linux-installation.pdf">📄 Installation</a>
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center"><strong>02</strong></td>
-    <td><strong>🗄️ Oracle Database 19c Installation</strong></td>
-    <td>Oracle installation, Oracle Home, Oracle Base, Listener, TNS, CDB/PDB</td>
-    <td align="center">
-      <a href="https://github.com/peterkamal297-alt/oracle-dba-lab-portfolio/tree/main/02-oracle-installation">📁 Open</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/peterkamal297-alt/oracle-dba-lab-portfolio/blob/main/02-oracle-installation/oracle-installation.pdf">📄 PDF</a>
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center"><strong>03</strong></td>
-    <td><strong>👨‍💻 Oracle DBA Administration</strong></td>
-    <td>Users, privileges, tablespaces, datafiles, redo, undo, parameters</td>
-    <td align="center">
-      <a href="https://github.com/peterkamal297-alt/oracle-dba-lab-portfolio/tree/main/03-oracle-dba-administration">📁 Open</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/peterkamal297-alt/oracle-dba-lab-portfolio/blob/main/03-oracle-dba-administration/oracle_database_administration.pdf">📄 PDF</a>
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center"><strong>04</strong></td>
-    <td><strong>💾 RMAN Backup & Recovery</strong></td>
-    <td>Backup, restore, recovery, archive logs, FRA, PITR</td>
-    <td align="center">
-      <a href="https://github.com/peterkamal297-alt/oracle-dba-lab-portfolio/tree/main/04-backup-recovery-rman">📁 Open</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/peterkamal297-alt/oracle-dba-lab-portfolio/blob/main/04-backup-recovery-rman/backup-recovery-rman.pdf">📄 PDF</a>
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center"><strong>05</strong></td>
-    <td><strong>🔄 Oracle Data Guard</strong></td>
-    <td>Primary/Standby, redo transport, redo apply, Broker, Switchover, Failover</td>
-    <td align="center">
-      <a href="https://github.com/peterkamal297-alt/oracle-dba-lab-portfolio/tree/main/05-data-guard">📁 Open</a>
-    </td>
-    <td align="center">⏳ Coming Soon</td>
-  </tr>
-
-  <tr>
-    <td align="center"><strong>06</strong></td>
-    <td><strong>⚡ Oracle RAC & Grid Infrastructure</strong></td>
-    <td>Grid Infrastructure, Clusterware, ASM, SCAN, VIP, RAC</td>
-    <td align="center">
-      <a href="https://github.com/peterkamal297-alt/oracle-dba-lab-portfolio/tree/main/06-oracle-rac">📁 Open</a>
-    </td>
-    <td align="center">⏳ Coming Soon</td>
-  </tr>
-
-  <tr>
-    <td align="center"><strong>07</strong></td>
-    <td><strong>📊 Oracle Enterprise Manager</strong></td>
-    <td>Monitoring, performance, alerts, jobs, maintenance</td>
-    <td align="center">
-      <a href="https://github.com/peterkamal297-alt/oracle-dba-lab-portfolio/tree/main/07-oem">📁 Open</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/peterkamal297-alt/oracle-dba-lab-portfolio/blob/main/07-oem/oracle-enterprise-manager.pdf">📄 PDF</a>
-    </td>
-  </tr>
-</table>
+| # | Project Title | Key Topics & Focus Areas | Folder | Documentation (PDF) |
+| :---: | :---| :---| :---: | :---: |
+| **01** | **🐧 Linux Administration** | Linux setup, users, permissions, processes, networking, storage & LVM | [📁 View](https://github.com/peterkamal297-alt/oracle-dba-lab-portfolio/tree/main/01-linux-administration) | [📄 Admin PDF](https://github.com/peterkamal297-alt/oracle-dba-lab-portfolio/raw/main/01-linux-administration/linux-administration.pdf)<br>[📄 Install PDF](https://github.com/peterkamal297-alt/oracle-dba-lab-portfolio/raw/main/01-linux-administration/linux-installation.pdf) |
+| **02** | **🗄️ Oracle Database 19c Installation** | Oracle software install, ORACLE_BASE/HOME, Listener, TNS, CDB/PDB | [📁 View](https://github.com/peterkamal297-alt/oracle-dba-lab-portfolio/tree/main/02-oracle-installation) | [📄 PDF](https://github.com/peterkamal297-alt/oracle-dba-lab-portfolio/raw/main/02-oracle-installation/oracle-installation.pdf) |
+| **03** | **👨‍💻 Oracle DBA Administration** | Users, privileges, tablespaces, datafiles, redo/undo logs, parameters | [📁 View](https://github.com/peterkamal297-alt/oracle-dba-lab-portfolio/tree/main/03-oracle-dba-administration) | [📄 PDF](https://github.com/peterkamal297-alt/oracle-dba-lab-portfolio/raw/main/03-oracle-dba-administration/oracle_database_administration.pdf) |
+| **04** | **💾 RMAN Backup & Recovery** | Full/Incremental backups, archive logs, FRA, Restore, PITR | [📁 View](https://github.com/peterkamal297-alt/oracle-dba-lab-portfolio/tree/main/04-backup-recovery-rman) | [📄 PDF](https://github.com/peterkamal297-alt/oracle-dba-lab-portfolio/raw/main/04-backup-recovery-rman/backup-recovery-rman.pdf) |
+| **05** | **🔄 Oracle Data Guard** | Primary/Standby setup, Redo transport, Broker, Switchover & Failover | [📁 View](https://github.com/peterkamal297-alt/oracle-dba-lab-portfolio/tree/main/05-data-guard) | ⏳ *Coming Soon* |
+| **06** | **⚡ Oracle RAC & Grid Infrastructure** | Grid Infrastructure, Clusterware, ASM, SCAN, VIP, RAC instances | [📁 View](https://github.com/peterkamal297-alt/oracle-dba-lab-portfolio/tree/main/06-oracle-rac) | ⏳ *Coming Soon* |
+| **07** | **📊 Oracle Enterprise Manager** | OEM 13c configuration, database monitoring, alerts & maintenance | [📁 View](https://github.com/peterkamal297-alt/oracle-dba-lab-portfolio/tree/main/07-oem) | [📄 PDF](https://github.com/peterkamal297-alt/oracle-dba-lab-portfolio/raw/main/07-oem/oracle-enterprise-manager.pdf) |
 
 ---
 
-## 🔎 Project Details
+## 🔎 Detailed Project Breakdown
 
 <details>
   <summary><strong>01 — 🐧 Linux Administration</strong></summary>
-
-<br>
-
-Hands-on Linux administration used as the foundation for Oracle Database environments.
-
-### Topics
-
-- Linux installation
-- Users and groups
-- File permissions
-- Processes
-- Services
-- Networking
-- Disk and filesystem management
-- LVM
-- SSH
-
-### Resources
-
-<a href="https://github.com/peterkamal297-alt/oracle-dba-lab-portfolio/tree/main/01-linux-administration">📁 Open Project</a>
-
-<br><br>
-
-<a href="https://github.com/peterkamal297-alt/oracle-dba-lab-portfolio/blob/main/01-linux-administration/linux-administration.pdf">📄 Linux Administration PDF</a>
-
-<br><br>
-
-<a href="https://github.com/peterkamal297-alt/oracle-dba-lab-portfolio/blob/main/01-linux-administration/linux-installation.pdf">📄 Linux Installation PDF</a>
-
+  <br>
+  Built as the solid foundation required for hosting and running Oracle Database environments.
+  
+  * **Topics Covered:** Linux OS installation, users & groups, file permissions, background processes, system services, networking configuration, LVM, and SSH security.
+  * **Quick Links:** [📁 Project Folder](https://github.com/peterkamal297-alt/oracle-dba-lab-portfolio/tree/main/01-linux-administration) | [📄 Linux Admin PDF](https://github.com/peterkamal297-alt/oracle-dba-lab-portfolio/raw/main/01-linux-administration/linux-administration.pdf) | [📄 Linux Installation PDF](https://github.com/peterkamal297-alt/oracle-dba-lab-portfolio/raw/main/01-linux-administration/linux-installation.pdf)
 </details>
-
-<br>
 
 <details>
   <summary><strong>02 — 🗄️ Oracle Database 19c Installation</strong></summary>
-
-<br>
-
-Installation and configuration of Oracle Database 19c on Oracle Linux.
-
-### Topics
-
-- Oracle software installation
-- Oracle Inventory
-- ORACLE_BASE
-- ORACLE_HOME
-- Listener configuration
-- TNS configuration
-- CDB/PDB
-- Database creation
-- SQL*Plus configuration
-
-### Resources
-
-<a href="https://github.com/peterkamal297-alt/oracle-dba-lab-portfolio/tree/main/02-oracle-installation">📁 Open Project</a>
-
-<br><br>
-
-<a href="https://github.com/peterkamal297-alt/oracle-dba-lab-portfolio/blob/main/02-oracle-installation/oracle-installation.pdf">📄 Oracle Installation PDF</a>
-
+  <br>
+  Step-by-step installation and manual configuration of Oracle Database 19c on Oracle Linux.
+  
+  * **Topics Covered:** Oracle software binaries extraction and installation, Oracle Inventory, ORACLE_BASE & ORACLE_HOME layout, Listener & TNS configuration, CDB/PDB creation, and SQL*Plus verification.
+  * **Quick Links:** [📁 Project Folder](https://github.com/peterkamal297-alt/oracle-dba-lab-portfolio/tree/main/02-oracle-installation) | [📄 Oracle Installation PDF](https://github.com/peterkamal297-alt/oracle-dba-lab-portfolio/raw/main/02-oracle-installation/oracle-installation.pdf)
 </details>
-
-<br>
 
 <details>
   <summary><strong>03 — 👨‍💻 Oracle DBA Administration</strong></summary>
-
-<br>
-
-Practical administration of an Oracle Database 19c environment.
-
-### Topics
-
-- Users and privileges
-- Tablespaces
-- Datafiles
-- Control files
-- Redo logs
-- Undo
-- Temporary tablespaces
-- Startup and shutdown
-- Initialization parameters
-- Basic performance and troubleshooting
-
-### Resources
-
-<a href="https://github.com/peterkamal297-alt/oracle-dba-lab-portfolio/tree/main/03-oracle-dba-administration">📁 Open Project</a>
-
-<br><br>
-
-<a href="https://github.com/peterkamal297-alt/oracle-dba-lab-portfolio/blob/main/03-oracle-dba-administration/oracle_database_administration.pdf">📄 Oracle Database Administration PDF</a>
-
+  <br>
+  Core database management tasks and day-to-day administration routines.
+  
+  * **Topics Covered:** User management & system privileges, tablespaces and datafiles sizing, control files management, online redo log files, undo management, startup/shutdown lifecycle, and init parameters.
+  * **Quick Links:** [📁 Project Folder](https://github.com/peterkamal297-alt/oracle-dba-lab-portfolio/tree/main/03-oracle-dba-administration) | [📄 DBA Administration PDF](https://github.com/peterkamal297-alt/oracle-dba-lab-portfolio/raw/main/03-oracle-dba-administration/oracle_database_administration.pdf)
 </details>
-
-<br>
 
 <details>
   <summary><strong>04 — 💾 RMAN Backup & Recovery</strong></summary>
-
-<br>
-
-Hands-on backup and recovery practice using Oracle Recovery Manager.
-
-### Topics
-
-- Full database backup
-- Incremental backup
-- Archive log backup
-- Fast Recovery Area
-- Restore
-- Recovery
-- Point-in-Time Recovery
-- Backup verification
-
-### Resources
-
-<a href="https://github.com/peterkamal297-alt/oracle-dba-lab-portfolio/tree/main/04-backup-recovery-rman">📁 Open Project</a>
-
-<br><br>
-
-<a href="https://github.com/peterkamal297-alt/oracle-dba-lab-portfolio/blob/main/04-backup-recovery-rman/backup-recovery-rman.pdf">📄 RMAN Backup & Recovery PDF</a>
-
+  <br>
+  Disaster recovery simulations using Oracle Recovery Manager (RMAN).
+  
+  * **Topics Covered:** Full database backups, incremental backup strategies, archive log management, Fast Recovery Area (FRA) configuration, complete restore operations, and Point-in-Time Recovery (PITR).
+  * **Quick Links:** [📁 Project Folder](https://github.com/peterkamal297-alt/oracle-dba-lab-portfolio/tree/main/04-backup-recovery-rman) | [📄 RMAN Backup & Recovery PDF](https://github.com/peterkamal297-alt/oracle-dba-lab-portfolio/raw/main/04-backup-recovery-rman/backup-recovery-rman.pdf)
 </details>
-
-<br>
 
 <details>
   <summary><strong>05 — 🔄 Oracle Data Guard</strong></summary>
-
-<br>
-
-Hands-on implementation and administration of an Oracle Data Guard physical standby environment.
-
-### Topics
-
-- Primary database
-- Physical standby database
-- TNS configuration
-- Password file
-- Standby control file
-- RMAN-based standby creation
-- Redo transport
-- Standby Redo Logs
-- Managed Recovery
-- Data Guard Broker
-- Switchover
-- Failover
-- Troubleshooting
-
-### Resources
-
-<a href="https://github.com/peterkamal297-alt/oracle-dba-lab-portfolio/tree/main/05-data-guard">📁 Open Project</a>
-
-<br><br>
-
-📄 Data Guard PDF — Coming Soon
-
+  <br>
+  High availability architecture implementation for zero data loss protection.
+  
+  * **Topics Covered:** Primary and physical standby configuration, redo transport services, standby redo logs, managed recovery process (MRP), Data Guard Broker, and tested switchover/failover workflows.
+  * **Quick Links:** [📁 Project Folder](https://github.com/peterkamal297-alt/oracle-dba-lab-portfolio/tree/main/05-data-guard)
 </details>
-
-<br>
 
 <details>
   <summary><strong>06 — ⚡ Oracle RAC & Grid Infrastructure</strong></summary>
-
-<br>
-
-Practical study and lab work covering Oracle RAC and Grid Infrastructure.
-
-### Topics
-
-- RAC architecture
-- Grid Infrastructure
-- Clusterware
-- ASM
-- SCAN
-- VIP
-- Multiple database instances
-- RAC administration
-- RAC monitoring
-
-### Resources
-
-<a href="https://github.com/peterkamal297-alt/oracle-dba-lab-portfolio/tree/main/06-oracle-rac">📁 Open Project</a>
-
-<br><br>
-
-📄 RAC PDF — Coming Soon
-
+  <br>
+  Clustered database environment setup for scalability and fault tolerance.
+  
+  * **Topics Covered:** Grid Infrastructure deployment, Oracle Clusterware, Automatic Storage Management (ASM), Single Client Access Name (SCAN), Virtual IPs (VIP), and multi-instance RAC administration.
+  * **Quick Links:** [📁 Project Folder](https://github.com/peterkamal297-alt/oracle-dba-lab-portfolio/tree/main/06-oracle-rac)
 </details>
-
-<br>
 
 <details>
   <summary><strong>07 — 📊 Oracle Enterprise Manager</strong></summary>
-
-<br>
-
-Hands-on Oracle Enterprise Manager Cloud Control practice.
-
-### Topics
-
-- Database monitoring
-- Performance analysis
-- Alerts
-- Jobs
-- Database maintenance
-- Target monitoring
-
-### Resources
-
-<a href="https://github.com/peterkamal297-alt/oracle-dba-lab-portfolio/tree/main/07-oem">📁 Open Project</a>
-
-<br><br>
-
-<a href="https://github.com/peterkamal297-alt/oracle-dba-lab-portfolio/blob/main/07-oem/oracle-enterprise-manager.pdf">📄 Oracle Enterprise Manager PDF</a>
-
+  <br>
+  Centralized enterprise monitoring and management practice.
+  
+  * **Topics Covered:** OEM Cloud Control 13c setup, target discovery, real-time database performance monitoring, alert configuration, automated maintenance jobs, and diagnostic reports.
+  * **Quick Links:** [📁 Project Folder](https://github.com/peterkamal297-alt/oracle-dba-lab-portfolio/tree/main/07-oem) | [📄 OEM PDF](https://github.com/peterkamal297-alt/oracle-dba-lab-portfolio/raw/main/07-oem/oracle-enterprise-manager.pdf)
 </details>
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Skills Matrix
 
-### 🗄️ Oracle Database
-
-Oracle 19c · SQL · SQL*Plus · Oracle Net · CDB/PDB
-
-### 💾 Backup & Recovery
-
-RMAN · Archive Logs · FRA · Restore · Recovery · PITR
-
-### 🔄 High Availability
-
-Data Guard · Data Guard Broker · RAC · Grid Infrastructure · ASM
-
-### 🐧 Linux
-
-Oracle Linux · Bash · Users & Groups · Permissions · Processes · Services · Networking · LVM
-
-### 📊 Monitoring
-
-Oracle Enterprise Manager 13c
+* **🗄️ Oracle Database:** Oracle 19c, SQL, SQL*Plus, Oracle Net Services, CDB / PDB Architecture
+* **💾 Backup & Recovery:** RMAN, Archive Log Management, Fast Recovery Area (FRA), PITR
+* **🔄 High Availability:** Oracle Data Guard, Data Guard Broker, Oracle RAC, Grid Infrastructure, ASM
+* **🐧 Linux OS:** Oracle Linux, RHEL, Bash Shell Scripting, User Management, LVM, Networking
+* **📊 Monitoring & Tools:** Oracle Enterprise Manager (OEM) 13c, VMware Workstation
 
 ---
 
-## 🖥️ Environment
+## 🖥️ Lab Environment Architecture
 
-### Operating System
-
-- Oracle Linux 8
-- VMware virtual machines
-- Linux command-line administration
-
-### Database
-
-- Oracle Database 19c
-- CDB / PDB architecture
-- SQL*Plus
-- Oracle Net / Listener
-- TNS configuration
-
-### High Availability & Recovery
-
-- RMAN
-- Archive Logs
-- Fast Recovery Area
-- Oracle Data Guard
-- Data Guard Broker
-- Oracle RAC
-- Grid Infrastructure
-- ASM
-
-### Monitoring
-
-- Oracle Enterprise Manager 13c
+* **Operating System:** Oracle Linux 8 (running inside VMware virtual machines)
+* **Database Engine:** Oracle Database 19c Enterprise Edition
+* **Storage & Networking:** ASM, LVM, Static IP networking, Oracle Net Listener / TNS Names
+* **HA & DR Frameworks:** RMAN, Data Guard Broker, Grid Infrastructure, Clusterware
 
 ---
 
-## 🧠 Documentation Approach
+## 🧠 Documentation Standard
 
-The lab documentation focuses on practical DBA work rather than theory alone.
-
-Where applicable, each topic follows:
+Every project and troubleshooting guide follows a consistent, engineering-focused structure:
 
 <div align="center">
 
-<strong>01 · Objective</strong>
-
-↓
-
-<strong>02 · Environment</strong>
-
-↓
-
-<strong>03 · Configuration</strong>
-
-↓
-
-<strong>04 · Commands</strong>
-
-↓
-
-<strong>05 · Verification</strong>
-
-↓
-
-<strong>06 · Troubleshooting</strong>
-
-↓
-
-<strong>07 · Result</strong>
+`01 · Objective` ➔ `02 · Environment` ➔ `03 · Configuration` ➔ `04 · Commands` ➔ `05 · Verification` ➔ `06 · Troubleshooting` ➔ `07 · Result`
 
 </div>
 
@@ -508,58 +178,51 @@ Where applicable, each topic follows:
 
 ## 💼 Professional Background
 
-My professional background also includes GIS, geospatial data, quality control, surveying, and technical documentation.
-
-This experience supports my work with:
-
-- Data validation
-- Data integrity
-- Database-oriented workflows
-- Technical documentation
-- Quality control
-- Large-scale data projects
+In addition to database administration, my background encompasses GIS, geospatial data analysis, quality control, surveying, and technical documentation. This background reinforces core DBA competencies such as:
+* Strict data validation and high integrity standards
+* Complex database-oriented workflows
+* Accurate and structured technical documentation
+* Large-scale data handling and quality control
 
 ---
 
-## 📄 CV
+## 📄 CV / Resume
 
 <div align="center">
 
-<a href="https://github.com/peterkamal297-alt/oracle-dba-lab-portfolio/blob/main/Peter_Kamal_Faltas_CV.pdf">
-  <img src="https://img.shields.io/badge/📄%20DOWNLOAD%20CV-1F7A4D?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+<a href="https://github.com/peterkamal297-alt/oracle-dba-lab-portfolio/raw/main/Peter_Kamal_Faltas_CV.pdf" target="_blank">
+  <img src="https://img.shields.io/badge/📄_DOWNLOAD_OFFICIAL_CV-1F7A4D?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-## 📫 Contact
+## 📫 Contact & Connect
 
 <div align="center">
 
-<strong>Peter Kamal Faltas</strong>
+### **Peter Kamal Faltas**
+**Junior Oracle Database Administrator**  
+📍 Cairo, Egypt  
 
-<strong>Junior Oracle Database Administrator</strong>
+<br>
 
-📍 Cairo, Egypt
-
-<br><br>
-
-<a href="mailto:peterkamal297@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="mailto:peterkamal297@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-peterkamal297@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
-<a href="https://www.linkedin.com/in/peter-kamal-faltas-859509232">
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/peter-kamal-faltas-859509232" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
-<a href="https://github.com/peterkamal297-alt/oracle-dba-lab-portfolio">
-  <img src="https://img.shields.io/badge/Oracle%20DBA%20Lab-Explore%20Projects-1F6FEB?style=for-the-badge&logo=github&logoColor=white"/>
+&nbsp;&nbsp;
+<a href="https://github.com/peterkamal297-alt/oracle-dba-lab-portfolio" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-Explore_Lab-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br><br>
 
-<strong>Build → Practice → Verify → Troubleshoot → Document</strong>
+> **Core Philosophy:** `Build` ➔ `Practice` ➔ `Verify` ➔ `Troubleshoot` ➔ `Document`
 
 </div>
 
@@ -567,6 +230,6 @@ This experience supports my work with:
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F6CBD,50:0B2D4D,100:07111F&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F6CBD,50:0B2D4D,100:07111F&height=100&section=footer" width="100%"/>
 
 </div>
