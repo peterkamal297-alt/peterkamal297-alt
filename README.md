@@ -18,6 +18,7 @@
   📍 <strong>Cairo, Egypt</strong> &nbsp;&bull;&nbsp; 💼 <strong>Open for Junior DBA Opportunities</strong>
 </p>
 
+<!-- شريط الـ Badges الخاص بالتقنيات (Tech Stack) -->
 <p align="center">
   <a href="https://github.com/peterkamal297-alt/oracle-dba-lab-portfolio/tree/main/02-oracle-installation" title="Oracle 19c Installation">
     <img src="https://img.shields.io/badge/Oracle-19c-F80000?style=flat-square&logo=oracle&logoColor=white"/>
@@ -36,6 +37,28 @@
   </a>
   <a href="https://github.com/peterkamal297-alt/oracle-dba-lab-portfolio/tree/main/07-oem" title="Oracle Enterprise Manager">
     <img src="https://img.shields.io/badge/OEM-13c-F59E0B?style=flat-square"/>
+  </a>
+</p>
+
+<!-- شريط الـ Badges الجديد الخاص بملفات الـ PDF للّابات -->
+<p align="center">
+  <a href="https://github.com/peterkamal297-alt/oracle-dba-lab-portfolio/raw/main/01-linux-administration/linux-administration.pdf" title="Linux Admin PDF">
+    <img src="https://img.shields.io/badge/📄_Linux_Admin-PDF-1E293B?style=flat-square"/>
+  </a>
+  <a href="https://github.com/peterkamal297-alt/oracle-dba-lab-portfolio/raw/main/01-linux-administration/linux-installation.pdf" title="Linux Install PDF">
+    <img src="https://img.shields.io/badge/📄_Linux_Install-PDF-1E293B?style=flat-square"/>
+  </a>
+  <a href="https://github.com/peterkamal297-alt/oracle-dba-lab-portfolio/raw/main/02-oracle-installation/oracle-installation.pdf" title="Oracle Installation PDF">
+    <img src="https://img.shields.io/badge/📄_Oracle_19c_Install-PDF-F80000?style=flat-square"/>
+  </a>
+  <a href="https://github.com/peterkamal297-alt/oracle-dba-lab-portfolio/raw/main/03-oracle-dba-administration/oracle_database_administration.pdf" title="DBA Administration PDF">
+    <img src="https://img.shields.io/badge/📄_DBA_Admin-PDF-0284C7?style=flat-square"/>
+  </a>
+  <a href="https://github.com/peterkamal297-alt/oracle-dba-lab-portfolio/raw/main/04-backup-recovery-rman/backup-recovery-rman.pdf" title="RMAN PDF">
+    <img src="https://img.shields.io/badge/📄_RMAN_Backup-PDF-334155?style=flat-square"/>
+  </a>
+  <a href="https://github.com/peterkamal297-alt/oracle-dba-lab-portfolio/raw/main/07-oem/oracle-enterprise-manager.pdf" title="OEM PDF">
+    <img src="https://img.shields.io/badge/📄_OEM_13c-PDF-F59E0B?style=flat-square"/>
   </a>
 </p>
 
