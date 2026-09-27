@@ -18,53 +18,6 @@
   📍 <strong>Cairo, Egypt</strong> &nbsp;&bull;&nbsp; 💼 <strong>Open for Junior DBA Opportunities</strong>
 </p>
 
-<!-- شريط التقنيات التفاعلي (لما تدوس عليه بينقلك للجدول تحت مباشرة) -->
-<p align="center">
-  <a href="#01--linux-administration" title="Go to Linux Admin Lab">
-    <img src="https://img.shields.io/badge/Oracle%20Linux-8-FCC624?style=flat-square&logo=linux&logoColor=black"/>
-  </a>
-  <a href="#02--oracle-database-19c-installation" title="Go to Oracle 19c Lab">
-    <img src="https://img.shields.io/badge/Oracle-19c-F80000?style=flat-square&logo=oracle&logoColor=white"/>
-  </a>
-  <a href="#03--oracle-dba-administration" title="Go to DBA Admin Lab">
-    <img src="https://img.shields.io/badge/DBA-Administration-0284C7?style=flat-square"/>
-  </a>
-  <a href="#04--rman-backup--recovery" title="Go to RMAN Lab">
-    <img src="https://img.shields.io/badge/RMAN-Backup%20%26%20Recovery-334155?style=flat-square"/>
-  </a>
-  <a href="#05--oracle-data-guard" title="Go to Data Guard Lab">
-    <img src="https://img.shields.io/badge/Data%20Guard-High%20Availability-2563EB?style=flat-square"/>
-  </a>
-  <a href="#06--oracle-rac--grid-infrastructure" title="Go to RAC Lab">
-    <img src="https://img.shields.io/badge/RAC-Grid%20Infrastructure-6D28D9?style=flat-square"/>
-  </a>
-  <a href="#07--oracle-enterprise-manager" title="Go to OEM Lab">
-    <img src="https://img.shields.io/badge/OEM-13c-F59E0B?style=flat-square"/>
-  </a>
-</p>
-
-<!-- شريط ملفات الـ PDF المباشرة للّابات -->
-<p align="center">
-  <a href="https://github.com/peterkamal297-alt/oracle-dba-lab-portfolio/raw/main/01-linux-administration/linux-administration.pdf" title="Linux Admin PDF" target="_blank">
-    <img src="https://img.shields.io/badge/📄_Linux_Admin-PDF-1E293B?style=flat-square"/>
-  </a>
-  <a href="https://github.com/peterkamal297-alt/oracle-dba-lab-portfolio/raw/main/01-linux-administration/linux-installation.pdf" title="Linux Install PDF" target="_blank">
-    <img src="https://img.shields.io/badge/📄_Linux_Install-PDF-1E293B?style=flat-square"/>
-  </a>
-  <a href="https://github.com/peterkamal297-alt/oracle-dba-lab-portfolio/raw/main/02-oracle-installation/oracle-installation.pdf" title="Oracle Installation PDF" target="_blank">
-    <img src="https://img.shields.io/badge/📄_Oracle_19c_Install-PDF-F80000?style=flat-square"/>
-  </a>
-  <a href="https://github.com/peterkamal297-alt/oracle-dba-lab-portfolio/raw/main/03-oracle-dba-administration/oracle_database_administration.pdf" title="DBA Administration PDF" target="_blank">
-    <img src="https://img.shields.io/badge/📄_DBA_Admin-PDF-0284C7?style=flat-square"/>
-  </a>
-  <a href="https://github.com/peterkamal297-alt/oracle-dba-lab-portfolio/raw/main/04-backup-recovery-rman/backup-recovery-rman.pdf" title="RMAN PDF" target="_blank">
-    <img src="https://img.shields.io/badge/📄_RMAN_Backup-PDF-334155?style=flat-square"/>
-  </a>
-  <a href="https://github.com/peterkamal297-alt/oracle-dba-lab-portfolio/raw/main/07-oem/oracle-enterprise-manager.pdf" title="OEM PDF" target="_blank">
-    <img src="https://img.shields.io/badge/📄_OEM_13c-PDF-F59E0B?style=flat-square"/>
-  </a>
-</p>
-
 </div>
 
 ---
@@ -107,6 +60,56 @@ Every lab module in this repository follows a strict, end-to-end operational pip
 ---
 
 ## 📚 Projects & Documentation
+
+<!-- شريط التقنيات التفاعلي والشعار المباشر للابات (بقي هنا فوق جدول المشاريع مباشرة) -->
+<div align="center">
+
+<p align="center">
+  <a href="#01--linux-administration" title="Go to Linux Admin Lab">
+    <img src="https://img.shields.io/badge/Oracle%20Linux-8-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+  </a>
+  <a href="#02--oracle-database-19c-installation" title="Go to Oracle 19c Lab">
+    <img src="https://img.shields.io/badge/Oracle-19c-F80000?style=flat-square&logo=oracle&logoColor=white"/>
+  </a>
+  <a href="#03--oracle-dba-administration" title="Go to DBA Admin Lab">
+    <img src="https://img.shields.io/badge/DBA-Administration-0284C7?style=flat-square"/>
+  </a>
+  <a href="#04--rman-backup--recovery" title="Go to RMAN Lab">
+    <img src="https://img.shields.io/badge/RMAN-Backup%20%26%20Recovery-334155?style=flat-square"/>
+  </a>
+  <a href="#05--oracle-data-guard" title="Go to Data Guard Lab">
+    <img src="https://img.shields.io/badge/Data%20Guard-High%20Availability-2563EB?style=flat-square"/>
+  </a>
+  <a href="#06--oracle-rac--grid-infrastructure" title="Go to RAC Lab">
+    <img src="https://img.shields.io/badge/RAC-Grid%20Infrastructure-6D28D9?style=flat-square"/>
+  </a>
+  <a href="#07--oracle-enterprise-manager" title="Go to OEM Lab">
+    <img src="https://img.shields.io/badge/OEM-13c-F59E0B?style=flat-square"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/peterkamal297-alt/oracle-dba-lab-portfolio/raw/main/01-linux-administration/linux-administration.pdf" title="Linux Admin PDF" target="_blank">
+    <img src="https://img.shields.io/badge/📄_Linux_Admin-PDF-1E293B?style=flat-square"/>
+  </a>
+  <a href="https://github.com/peterkamal297-alt/oracle-dba-lab-portfolio/raw/main/01-linux-administration/linux-installation.pdf" title="Linux Install PDF" target="_blank">
+    <img src="https://img.shields.io/badge/📄_Linux_Install-PDF-1E293B?style=flat-square"/>
+  </a>
+  <a href="https://github.com/peterkamal297-alt/oracle-dba-lab-portfolio/raw/main/02-oracle-installation/oracle-installation.pdf" title="Oracle Installation PDF" target="_blank">
+    <img src="https://img.shields.io/badge/📄_Oracle_19c_Install-PDF-F80000?style=flat-square"/>
+  </a>
+  <a href="https://github.com/peterkamal297-alt/oracle-dba-lab-portfolio/raw/main/03-oracle-dba-administration/oracle_database_administration.pdf" title="DBA Administration PDF" target="_blank">
+    <img src="https://img.shields.io/badge/📄_DBA_Admin-PDF-0284C7?style=flat-square"/>
+  </a>
+  <a href="https://github.com/peterkamal297-alt/oracle-dba-lab-portfolio/raw/main/04-backup-recovery-rman/backup-recovery-rman.pdf" title="RMAN PDF" target="_blank">
+    <img src="https://img.shields.io/badge/📄_RMAN_Backup-PDF-334155?style=flat-square"/>
+  </a>
+  <a href="https://github.com/peterkamal297-alt/oracle-dba-lab-portfolio/raw/main/07-oem/oracle-enterprise-manager.pdf" title="OEM PDF" target="_blank">
+    <img src="https://img.shields.io/badge/📄_OEM_13c-PDF-F59E0B?style=flat-square"/>
+  </a>
+</p>
+
+</div>
 
 <p align="center">
   <a href="https://github.com/peterkamal297-alt/oracle-dba-lab-portfolio/tree/main/01-linux-administration" title="Linux Admin">
