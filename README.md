@@ -18,7 +18,7 @@
   📍 <strong>Cairo, Egypt</strong> &nbsp;&bull;&nbsp; 💼 <strong>Open for Junior DBA Opportunities</strong>
 </p>
 
-<!-- شريط الـ Badges الخاص بالتقنيات (Tech Stack) -->
+<!-- شريط التقنيات الأساسية (Tech Stack Badges) -->
 <p align="center">
   <a href="https://github.com/peterkamal297-alt/oracle-dba-lab-portfolio/tree/main/02-oracle-installation" title="Oracle 19c Installation">
     <img src="https://img.shields.io/badge/Oracle-19c-F80000?style=flat-square&logo=oracle&logoColor=white"/>
@@ -40,7 +40,7 @@
   </a>
 </p>
 
-<!-- شريط الـ Badges الجديد الخاص بملفات الـ PDF للّابات -->
+<!-- شريط ملفات الـ PDF المباشرة للّابات -->
 <p align="center">
   <a href="https://github.com/peterkamal297-alt/oracle-dba-lab-portfolio/raw/main/01-linux-administration/linux-administration.pdf" title="Linux Admin PDF">
     <img src="https://img.shields.io/badge/📄_Linux_Admin-PDF-1E293B?style=flat-square"/>
