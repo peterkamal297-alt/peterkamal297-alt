@@ -20,8 +20,7 @@
 
 <!-- شريط التقنيات الأساسية (Tech Stack Badges) -->
 <p align="center">
-  <a href="https://github.com/peterkamal297-alt/oracle-dba-lab-portfolio/tree/main/02-oracle-installation" title="Oracle 19c Installation">
-    <img src="https://img.shields.io/badge/Oracle-19c-F80000?style=flat-square&logo=oracle&logoColor=white"/>
+  <a href="https://github.com/peterkamal297-alt/oracle-dba-lab-portfolio/tree/main/02-oracle-installation" title="Oracle 19c Installation">    <img src="https://img.shields.io/badge/Oracle-19c-F80000?style=flat-square&logo=oracle&logoColor=white"/>
   </a>
   <a href="https://github.com/peterkamal297-alt/oracle-dba-lab-portfolio/tree/main/01-linux-administration" title="Linux Administration">
     <img src="https://img.shields.io/badge/Oracle%20Linux-8-FCC624?style=flat-square&logo=linux&logoColor=black"/>
@@ -39,6 +38,7 @@
     <img src="https://img.shields.io/badge/OEM-13c-F59E0B?style=flat-square"/>
   </a>
 </p>
+  https://github.com/peterkamal297-alt/oracle-dba-lab-portfolio 
 
 <!-- شريط ملفات الـ PDF المباشرة للّابات -->
 <p align="center">
@@ -107,13 +107,13 @@ Every lab module in this repository follows a strict, end-to-end operational pip
 
 | # | Project Title | Core Technical Focus & Architecture | Source Folder | Documentation (PDF) |
 | :---: | :---| :---| :---: | :---: |
-| **01** | **🐧 Linux Administration** | Hardening, users/groups, permissions, processes, networking, storage & LVM | [📁 View Code](https://github.com/peterkamal297-alt/oracle-dba-lab-portfolio/tree/main/01-linux-administration) | [📄 Admin PDF](https://github.com/peterkamal297-alt/oracle-dba-lab-portfolio/raw/main/01-linux-administration/linux-administration.pdf)<br>[📄 Install PDF](https://github.com/peterkamal297-alt/oracle-dba-lab-portfolio/raw/main/01-linux-administration/linux-installation.pdf) |
-| **02** | **🗄️ Oracle Database 19c Installation** | Binaries setup, ORACLE_BASE/HOME, Listener, TNS, CDB/PDB architecture | [📁 View Code](https://github.com/peterkamal297-alt/oracle-dba-lab-portfolio/tree/main/02-oracle-installation) | [📄 PDF Guide](https://github.com/peterkamal297-alt/oracle-dba-lab-portfolio/raw/main/02-oracle-installation/oracle-installation.pdf) |
-| **03** | **👨‍💻 Oracle DBA Administration** | Security, privileges, tablespaces, datafiles, redo/undo management, parameters | [📁 View Code](https://github.com/peterkamal297-alt/oracle-dba-lab-portfolio/tree/main/03-oracle-dba-administration) | [📄 PDF Guide](https://github.com/peterkamal297-alt/oracle-dba-lab-portfolio/raw/main/03-oracle-dba-administration/oracle_database_administration.pdf) |
-| **04** | **💾 RMAN Backup & Recovery** | Full/Incremental backups, archive logs, FRA configuration, PITR workflows | [📁 View Code](https://github.com/peterkamal297-alt/oracle-dba-lab-portfolio/tree/main/04-backup-recovery-rman) | [📄 PDF Guide](https://github.com/peterkamal297-alt/oracle-dba-lab-portfolio/raw/main/04-backup-recovery-rman/backup-recovery-rman.pdf) |
-| **05** | **🔄 Oracle Data Guard** | Primary/Standby sync, Redo transport, Broker management, Switchover & Failover | [📁 View Code](https://github.com/peterkamal297-alt/oracle-dba-lab-portfolio/tree/main/05-data-guard) | ⏳ *Coming Soon* |
-| **06** | **⚡ Oracle RAC & Grid Infrastructure** | Clusterware deployment, ASM setup, SCAN, VIP configuration, multi-instance RAC | [📁 View Code](https://github.com/peterkamal297-alt/oracle-dba-lab-portfolio/tree/main/06-oracle-rac) | ⏳ *Coming Soon* |
-| **07** | **📊 Oracle Enterprise Manager** | OEM 13c setup, enterprise target discovery, proactive monitoring, alerts | [📁 View Code](https://github.com/peterkamal297-alt/oracle-dba-lab-portfolio/tree/main/07-oem) | [📄 PDF Guide](https://github.com/peterkamal297-alt/oracle-dba-lab-portfolio/raw/main/07-oem/oracle-enterprise-manager.pdf) |
+| **01** | **🐧 Linux Administration**<br><br><a href="https://github.com/peterkamal297-alt/oracle-dba-lab-portfolio/tree/main/01-linux-administration"><img src="https://img.shields.io/badge/Oracle%20Linux-8-FCC624?style=flat-square&logo=linux&logoColor=black"/></a> | Hardening, users/groups, permissions, processes, networking, storage & LVM | [📁 View Code](https://github.com/peterkamal297-alt/oracle-dba-lab-portfolio/tree/main/01-linux-administration) | [📄 Admin PDF](https://github.com/peterkamal297-alt/oracle-dba-lab-portfolio/raw/main/01-linux-administration/linux-administration.pdf)<br>[📄 Install PDF](https://github.com/peterkamal297-alt/oracle-dba-lab-portfolio/raw/main/01-linux-administration/linux-installation.pdf) |
+| **02** | **🗄️ Oracle Database 19c Installation**<br><br><a href="https://github.com/peterkamal297-alt/oracle-dba-lab-portfolio/tree/main/02-oracle-installation"><img src="https://img.shields.io/badge/Oracle-19c-F80000?style=flat-square&logo=oracle&logoColor=white"/></a> | Binaries setup, ORACLE_BASE/HOME, Listener, TNS, CDB/PDB architecture | [📁 View Code](https://github.com/peterkamal297-alt/oracle-dba-lab-portfolio/tree/main/02-oracle-installation) | [📄 PDF Guide](https://github.com/peterkamal297-alt/oracle-dba-lab-portfolio/raw/main/02-oracle-installation/oracle-installation.pdf) |
+| **03** | **👨‍💻 Oracle DBA Administration**<br><br><a href="https://github.com/peterkamal297-alt/oracle-dba-lab-portfolio/tree/main/03-oracle-dba-administration"><img src="https://img.shields.io/badge/Oracle-19c-F80000?style=flat-square&logo=oracle&logoColor=white"/></a> | Security, privileges, tablespaces, datafiles, redo/undo management, parameters | [📁 View Code](https://github.com/peterkamal297-alt/oracle-dba-lab-portfolio/tree/main/03-oracle-dba-administration) | [📄 PDF Guide](https://github.com/peterkamal297-alt/oracle-dba-lab-portfolio/raw/main/03-oracle-dba-administration/oracle_database_administration.pdf) |
+| **04** | **💾 RMAN Backup & Recovery**<br><br><a href="https://github.com/peterkamal297-alt/oracle-dba-lab-portfolio/tree/main/04-backup-recovery-rman"><img src="https://img.shields.io/badge/RMAN-Backup%20%26%20Recovery-334155?style=flat-square"/></a> | Full/Incremental backups, archive logs, FRA configuration, PITR workflows | [📁 View Code](https://github.com/peterkamal297-alt/oracle-dba-lab-portfolio/tree/main/04-backup-recovery-rman) | [📄 PDF Guide](https://github.com/peterkamal297-alt/oracle-dba-lab-portfolio/raw/main/04-backup-recovery-rman/backup-recovery-rman.pdf) |
+| **05** | **🔄 Oracle Data Guard**<br><br><a href="https://github.com/peterkamal297-alt/oracle-dba-lab-portfolio/tree/main/05-data-guard"><img src="https://img.shields.io/badge/Data%20Guard-High%20Availability-2563EB?style=flat-square"/></a> | Primary/Standby sync, Redo transport, Broker management, Switchover & Failover | [📁 View Code](https://github.com/peterkamal297-alt/oracle-dba-lab-portfolio/tree/main/05-data-guard) | ⏳ *Coming Soon* |
+| **06** | **⚡ Oracle RAC & Grid Infrastructure**<br><br><a href="https://github.com/peterkamal297-alt/oracle-dba-lab-portfolio/tree/main/06-oracle-rac"><img src="https://img.shields.io/badge/RAC-Grid%20Infrastructure-6D28D9?style=flat-square"/></a> | Clusterware deployment, ASM setup, SCAN, VIP configuration, multi-instance RAC | [📁 View Code](https://github.com/peterkamal297-alt/oracle-dba-lab-portfolio/tree/main/06-oracle-rac) | ⏳ *Coming Soon* |
+| **07** | **📊 Oracle Enterprise Manager**<br><br><a href="https://github.com/peterkamal297-alt/oracle-dba-lab-portfolio/tree/main/07-oem"><img src="https://img.shields.io/badge/OEM-13c-F59E0B?style=flat-square"/></a> | OEM 13c setup, enterprise target discovery, proactive monitoring, alerts | [📁 View Code](https://github.com/peterkamal297-alt/oracle-dba-lab-portfolio/tree/main/07-oem) | [📄 PDF Guide](https://github.com/peterkamal297-alt/oracle-dba-lab-portfolio/raw/main/07-oem/oracle-enterprise-manager.pdf) |
 
 ---
 
