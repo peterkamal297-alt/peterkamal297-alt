@@ -49,7 +49,7 @@
 
 <div align="center">
 
-| [About](#-about-me) | [Lab Workflow](#-oracle-dba-lab) | [Projects & Docs](#-projects--documentation) | [Skills](#️-skills) | [Environment](#️-environment) | [CV](#-cv) | [Contact](#-contact) |
+| [<ins>About Me</ins>](#-about-me) | [<ins>Lab Workflow</ins>](#-oracle-dba-lab) | [<ins>Projects & Docs</ins>](#-projects--documentation) | [<ins>Skills</ins>](#-skills) | [<ins>Environment</ins>](#-environment) | [<ins>CV</ins>](#-cv) | [<ins>Contact</ins>](#-contact) |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 
 </div>
@@ -157,7 +157,7 @@ Every lab section in this portfolio is built around a rigorous, real-world DBA w
 
 ---
 
-## 🛠️ Skills Matrix
+## <a id="-skills"></a>🛠️ Skills Matrix
 
 * **🗄️ Oracle Database:** Oracle 19c, SQL, SQL*Plus, Oracle Net Services, CDB / PDB Architecture
 * **💾 Backup & Recovery:** RMAN, Archive Log Management, Fast Recovery Area (FRA), PITR
@@ -167,7 +167,7 @@ Every lab section in this portfolio is built around a rigorous, real-world DBA w
 
 ---
 
-## 🖥️ Lab Environment Architecture
+## <a id="-environment"></a>🖥️ Lab Environment Architecture
 
 * **Operating System:** Oracle Linux 8 (running inside VMware virtual machines)
 * **Database Engine:** Oracle Database 19c Enterprise Edition
@@ -198,7 +198,7 @@ In addition to database administration, my background encompasses GIS, geospatia
 
 ---
 
-## 📄 CV / Resume
+## <a id="-cv"></a>📄 CV / Resume
 
 <div align="center">
 
@@ -210,7 +210,7 @@ In addition to database administration, my background encompasses GIS, geospatia
 
 ---
 
-## 📫 Contact & Connect
+## <a id="-contact"></a>📫 Contact & Connect
 
 <div align="center">
 
