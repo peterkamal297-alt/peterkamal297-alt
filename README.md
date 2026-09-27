@@ -23,12 +23,24 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Oracle-19c-F80000?style=flat-square&logo=oracle&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Oracle%20Linux-8-FCC624?style=flat-square&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/RMAN-Backup%20%26%20Recovery-334155?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Data%20Guard-High%20Availability-2563EB?style=flat-square"/>
-  <img src="https://img.shields.io/badge/RAC-Grid%20Infrastructure-6D28D9?style=flat-square"/>
-  <img src="https://img.shields.io/badge/OEM-13c-F59E0B?style=flat-square"/>
+  <a href="https://github.com/peterkamal297-alt/oracle-dba-lab-portfolio/tree/main/02-oracle-installation" title="Oracle 19c Installation">
+    <img src="https://img.shields.io/badge/Oracle-19c-F80000?style=flat-square&logo=oracle&logoColor=white"/>
+  </a>
+  <a href="https://github.com/peterkamal297-alt/oracle-dba-lab-portfolio/tree/main/01-linux-administration" title="Linux Administration">
+    <img src="https://img.shields.io/badge/Oracle%20Linux-8-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+  </a>
+  <a href="https://github.com/peterkamal297-alt/oracle-dba-lab-portfolio/tree/main/04-backup-recovery-rman" title="RMAN Backup & Recovery">
+    <img src="https://img.shields.io/badge/RMAN-Backup%20%26%20Recovery-334155?style=flat-square"/>
+  </a>
+  <a href="https://github.com/peterkamal297-alt/oracle-dba-lab-portfolio/tree/main/05-data-guard" title="Oracle Data Guard">
+    <img src="https://img.shields.io/badge/Data%20Guard-High%20Availability-2563EB?style=flat-square"/>
+  </a>
+  <a href="https://github.com/peterkamal297-alt/oracle-dba-lab-portfolio/tree/main/06-oracle-rac" title="Oracle RAC">
+    <img src="https://img.shields.io/badge/RAC-Grid%20Infrastructure-6D28D9?style=flat-square"/>
+  </a>
+  <a href="https://github.com/peterkamal297-alt/oracle-dba-lab-portfolio/tree/main/07-oem" title="Oracle Enterprise Manager">
+    <img src="https://img.shields.io/badge/OEM-13c-F59E0B?style=flat-square"/>
+  </a>
 </p>
 
 </div>
