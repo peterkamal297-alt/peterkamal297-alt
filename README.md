@@ -20,7 +20,7 @@
 
 <!-- شريط التقنيات التفاعلي (لما تدوس عليه بينقلك للجدول تحت مباشرة) -->
 <p align="center">
-  <a href="#01--linux-administration" title="Go to Linux Admin Lab">
+  <a href="#01--linux-administration-foundation-layer" title="Go to Linux Admin Lab">
     <img src="https://img.shields.io/badge/Oracle%20Linux-8-FCC624?style=flat-square&logo=linux&logoColor=black"/>
   </a>
   <a href="#02--oracle-database-19c-installation" title="Go to Oracle 19c Lab">
@@ -71,9 +71,9 @@
 
 <!-- NAVIGATION BAR -->
 <p align="center">
-  <code><b>[</b></code> <a href="#-about-me"><strong>About Me</strong></a> <code><b>]</b></code> &nbsp;&bull;&nbsp;
-  <code><b>[</b></code> <a href="#-oracle-dba-lab"><strong>Lab Workflow</strong></a> <code><b>]</b></code> &nbsp;&bull;&nbsp;
-  <code><b>[</b></code> <a href="#-projects--documentation"><strong>Projects & Docs</strong></a> <code><b>]</b></code> &nbsp;&bull;&nbsp;
+  <code><b>[</b></code> <a href="#about-me"><strong>About Me</strong></a> <code><b>]</b></code> &nbsp;&bull;&nbsp;
+  <code><b>[</b></code> <a href="#oracle-dba-lab-architecture"><strong>Lab Workflow</strong></a> <code><b>]</b></code> &nbsp;&bull;&nbsp;
+  <code><b>[</b></code> <a href="#projects--documentation"><strong>Projects & Docs</strong></a> <code><b>]</b></code> &nbsp;&bull;&nbsp;
   <code><b>[</b></code> <a href="#-skills"><strong>Skills</strong></a> <code><b>]</b></code> &nbsp;&bull;&nbsp;
   <code><b>[</b></code> <a href="#-environment"><strong>Environment</strong></a> <code><b>]</b></code> &nbsp;&bull;&nbsp;
   <code><b>[</b></code> <a href="#-cv"><strong>CV</strong></a> <code><b>]</b></code> &nbsp;&bull;&nbsp;
@@ -147,7 +147,7 @@ Every lab module in this repository follows a strict, end-to-end operational pip
 ## 🔎 Detailed Deep-Dive Breakdown
 
 <details>
-  <summary><strong>01 — 🐧 Linux Administration (Foundation Layer)</strong></summary>
+  <summary><strong id="01--linux-administration-foundation-layer">01 — 🐧 Linux Administration (Foundation Layer)</strong></summary>
   <br>
   Designed to build the robust Linux baseline required for enterprise database hosting.
   <br><br>
@@ -158,7 +158,7 @@ Every lab module in this repository follows a strict, end-to-end operational pip
 </details>
 
 <details>
-  <summary><strong>02 — 🗄️ Oracle Database 19c Installation</strong></summary>
+  <summary><strong id="02--oracle-database-19c-installation">02 — 🗄️ Oracle Database 19c Installation</strong></summary>
   <br>
   Complete manual deployment of Oracle Database 19c Enterprise Edition on Linux.
   <br><br>
@@ -169,7 +169,7 @@ Every lab module in this repository follows a strict, end-to-end operational pip
 </details>
 
 <details>
-  <summary><strong>03 — 👨‍💻 Oracle DBA Administration</strong></summary>
+  <summary><strong id="03--oracle-dba-administration">03 — 👨‍💻 Oracle DBA Administration</strong></summary>
   <br>
   Day-to-day instance management, tuning, and structural maintenance.
   <br><br>
@@ -180,7 +180,7 @@ Every lab module in this repository follows a strict, end-to-end operational pip
 </details>
 
 <details>
-  <summary><strong>04 — 💾 RMAN Backup & Recovery</strong></summary>
+  <summary><strong id="04--rman-backup--recovery">04 — 💾 RMAN Backup & Recovery</strong></summary>
   <br>
   Robust disaster simulation and recovery management using Recovery Manager.
   <br><br>
@@ -191,7 +191,7 @@ Every lab module in this repository follows a strict, end-to-end operational pip
 </details>
 
 <details>
-  <summary><strong>05 — 🔄 Oracle Data Guard</strong></summary>
+  <summary><strong id="05--oracle-data-guard">05 — 🔄 Oracle Data Guard</strong></summary>
   <br>
   High availability and disaster recovery architecture configuration.
   <br><br>
@@ -202,7 +202,7 @@ Every lab module in this repository follows a strict, end-to-end operational pip
 </details>
 
 <details>
-  <summary><strong>06 — ⚡ Oracle RAC & Grid Infrastructure</strong></summary>
+  <summary><strong id="06--oracle-rac--grid-infrastructure">06 — ⚡ Oracle RAC & Grid Infrastructure</strong></summary>
   <br>
   Scalable, fault-tolerant clustered database architecture.
   <br><br>
@@ -213,7 +213,7 @@ Every lab module in this repository follows a strict, end-to-end operational pip
 </details>
 
 <details>
-  <summary><strong>07 — 📊 Oracle Enterprise Manager</strong></summary>
+  <summary><strong id="07--oracle-enterprise-manager">07 — 📊 Oracle Enterprise Manager</strong></summary>
   <br>
   Centralized enterprise monitoring and management solution.
   <br><br>
@@ -239,19 +239,19 @@ Every lab module in this repository follows a strict, end-to-end operational pip
 
 ## <a id="-environment"></a>🖥️ Lab Environment Architecture
 
-* **Virtualization Layer:** VMware Workstation Pro / Virtual Machines
-* **Operating System:** Oracle Linux 8 (Enterprise Hardened Profile)
-* **Storage Frameworks:** Automatic Storage Management (ASM) & Linux LVM
-* **Connectivity & Net:** Static IP Routing, Oracle Net Listeners, TNSNAMES configuration
+- **Virtualization Layer:** VMware Workstation Pro / Virtual Machines
+- **Operating System:** Oracle Linux 8 (Enterprise Hardened Profile)
+- **Storage Frameworks:** Automatic Storage Management (ASM) & Linux LVM
+- **Connectivity & Net:** Static IP Routing, Oracle Net Listeners, TNSNAMES configuration
 
 ---
 
 ## 💼 Professional Background & Synergy
 
 In addition to dedicated database administration, my professional background encompasses **GIS, geospatial spatial data analysis, quality control, surveying, and structured technical documentation**. This diverse background heavily reinforces core DBA execution through:
-* **Strict Data Integrity:** Applying rigorous validation standards to eliminate transactional or structural anomalies.
-* **Complex Workflow Management:** Handling multi-layered data operations with zero margin for error.
-* **Exhaustive Documentation:** Writing crystal-clear, step-by-step engineering guidelines and standard operating procedures (SOPs).
+- **Strict Data Integrity:** Applying rigorous validation standards to eliminate transactional or structural anomalies.
+- **Complex Workflow Management:** Handling multi-layered data operations with zero margin for error.
+- **Exhaustive Documentation:** Writing crystal-clear, step-by-step engineering guidelines and standard operating procedures (SOPs).
 
 ---
 
