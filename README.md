@@ -18,27 +18,27 @@
   📍 <strong>Cairo, Egypt</strong> &nbsp;&bull;&nbsp; 💼 <strong>Open for Junior DBA Opportunities</strong>
 </p>
 
-<!-- شريط التقنيات التفاعلي (لما تدوس عليه بينقلك للجدول تحت مباشرة) -->
+<!-- شريط التقنيات التفاعلي (لما تدوس عليه بينقلك لفولدر المشروع الخاص بيه مباشرة على جيت هب) -->
 <p align="center">
-  <a href="#lab-01" title="Go to Linux Admin Lab">
+  <a href="https://github.com/peterkamal297-alt/oracle-dba-lab-portfolio/tree/main/01-linux-administration" title="Go to Linux Admin Lab" target="_blank">
     <img src="https://img.shields.io/badge/Oracle%20Linux-8-FCC624?style=flat-square&logo=linux&logoColor=black"/>
   </a>
-  <a href="#lab-02" title="Go to Oracle 19c Lab">
+  <a href="https://github.com/peterkamal297-alt/oracle-dba-lab-portfolio/tree/main/02-oracle-installation" title="Go to Oracle 19c Lab" target="_blank">
     <img src="https://img.shields.io/badge/Oracle-19c-F80000?style=flat-square&logo=oracle&logoColor=white"/>
   </a>
-  <a href="#lab-03" title="Go to DBA Admin Lab">
+  <a href="https://github.com/peterkamal297-alt/oracle-dba-lab-portfolio/tree/main/03-oracle-dba-administration" title="Go to DBA Admin Lab" target="_blank">
     <img src="https://img.shields.io/badge/DBA-Administration-0284C7?style=flat-square"/>
   </a>
-  <a href="#lab-04" title="Go to RMAN Lab">
+  <a href="https://github.com/peterkamal297-alt/oracle-dba-lab-portfolio/tree/main/04-backup-recovery-rman" title="Go to RMAN Lab" target="_blank">
     <img src="https://img.shields.io/badge/RMAN-Backup%20%26%20Recovery-334155?style=flat-square"/>
   </a>
-  <a href="#lab-05" title="Go to Data Guard Lab">
+  <a href="https://github.com/peterkamal297-alt/oracle-dba-lab-portfolio/tree/main/05-data-guard" title="Go to Data Guard Lab" target="_blank">
     <img src="https://img.shields.io/badge/Data%20Guard-High%20Availability-2563EB?style=flat-square"/>
   </a>
-  <a href="#lab-06" title="Go to RAC Lab">
+  <a href="https://github.com/peterkamal297-alt/oracle-dba-lab-portfolio/tree/main/06-oracle-rac" title="Go to RAC Lab" target="_blank">
     <img src="https://img.shields.io/badge/RAC-Grid%20Infrastructure-6D28D9?style=flat-square"/>
   </a>
-  <a href="#lab-07" title="Go to OEM Lab">
+  <a href="https://github.com/peterkamal297-alt/oracle-dba-lab-portfolio/tree/main/07-oem" title="Go to OEM Lab" target="_blank">
     <img src="https://img.shields.io/badge/OEM-13c-F59E0B?style=flat-square"/>
   </a>
 </p>
@@ -146,7 +146,7 @@ Every lab module in this repository follows a strict, end-to-end operational pip
 
 ## 🔎 Detailed Deep-Dive Breakdown
 
-<details id="lab-01">
+<details>
   <summary><strong>01 — 🐧 Linux Administration (Foundation Layer)</strong></summary>
   <br>
   Designed to build the robust Linux baseline required for enterprise database hosting.
@@ -157,7 +157,7 @@ Every lab module in this repository follows a strict, end-to-end operational pip
   </ul>
 </details>
 
-<details id="lab-02">
+<details>
   <summary><strong>02 — 🗄️ Oracle Database 19c Installation</strong></summary>
   <br>
   Complete manual deployment of Oracle Database 19c Enterprise Edition on Linux.
@@ -168,7 +168,7 @@ Every lab module in this repository follows a strict, end-to-end operational pip
   </ul>
 </details>
 
-<details id="lab-03">
+<details>
   <summary><strong>03 — 👨‍💻 Oracle DBA Administration</strong></summary>
   <br>
   Day-to-day instance management, tuning, and structural maintenance.
@@ -179,7 +179,7 @@ Every lab module in this repository follows a strict, end-to-end operational pip
   </ul>
 </details>
 
-<details id="lab-04">
+<details>
   <summary><strong>04 — 💾 RMAN Backup & Recovery</strong></summary>
   <br>
   Robust disaster simulation and recovery management using Recovery Manager.
@@ -190,7 +190,7 @@ Every lab module in this repository follows a strict, end-to-end operational pip
   </ul>
 </details>
 
-<details id="lab-05">
+<details>
   <summary><strong>05 — 🔄 Oracle Data Guard</strong></summary>
   <br>
   High availability and disaster recovery architecture configuration.
@@ -201,7 +201,7 @@ Every lab module in this repository follows a strict, end-to-end operational pip
   </ul>
 </details>
 
-<details id="lab-06">
+<details>
   <summary><strong>06 — ⚡ Oracle RAC & Grid Infrastructure</strong></summary>
   <br>
   Scalable, fault-tolerant clustered database architecture.
@@ -212,7 +212,7 @@ Every lab module in this repository follows a strict, end-to-end operational pip
   </ul>
 </details>
 
-<details id="lab-07">
+<details>
   <summary><strong>07 — 📊 Oracle Enterprise Manager</strong></summary>
   <br>
   Centralized enterprise monitoring and management solution.
