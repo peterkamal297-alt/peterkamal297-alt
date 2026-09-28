@@ -20,25 +20,25 @@
 
 <!-- شريط التقنيات التفاعلي (لما تدوس عليه بينقلك للجدول تحت مباشرة) -->
 <p align="center">
-  <a href="#user-content-lab-01" title="Go to Linux Admin Lab">
+  <a href="#lab-01" title="Go to Linux Admin Lab">
     <img src="https://img.shields.io/badge/Oracle%20Linux-8-FCC624?style=flat-square&logo=linux&logoColor=black"/>
   </a>
-  <a href="#user-content-lab-02" title="Go to Oracle 19c Lab">
+  <a href="#lab-02" title="Go to Oracle 19c Lab">
     <img src="https://img.shields.io/badge/Oracle-19c-F80000?style=flat-square&logo=oracle&logoColor=white"/>
   </a>
-  <a href="#user-content-lab-03" title="Go to DBA Admin Lab">
+  <a href="#lab-03" title="Go to DBA Admin Lab">
     <img src="https://img.shields.io/badge/DBA-Administration-0284C7?style=flat-square"/>
   </a>
-  <a href="#user-content-lab-04" title="Go to RMAN Lab">
+  <a href="#lab-04" title="Go to RMAN Lab">
     <img src="https://img.shields.io/badge/RMAN-Backup%20%26%20Recovery-334155?style=flat-square"/>
   </a>
-  <a href="#user-content-lab-05" title="Go to Data Guard Lab">
+  <a href="#lab-05" title="Go to Data Guard Lab">
     <img src="https://img.shields.io/badge/Data%20Guard-High%20Availability-2563EB?style=flat-square"/>
   </a>
-  <a href="#user-content-lab-06" title="Go to RAC Lab">
+  <a href="#lab-06" title="Go to RAC Lab">
     <img src="https://img.shields.io/badge/RAC-Grid%20Infrastructure-6D28D9?style=flat-square"/>
   </a>
-  <a href="#user-content-lab-07" title="Go to OEM Lab">
+  <a href="#lab-07" title="Go to OEM Lab">
     <img src="https://img.shields.io/badge/OEM-13c-F59E0B?style=flat-square"/>
   </a>
 </p>
@@ -82,7 +82,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## <a id="about-me"></a>👨‍💻 About Me
 
 > **Junior Oracle Database Administrator** specialized in building, hardening, and administering enterprise-grade **Oracle Database 19c** environments on Linux systems via VMware infrastructure.
 
@@ -90,7 +90,7 @@ This repository serves as a comprehensive, production-style technical portfolio 
 
 ---
 
-## 🧪 Oracle DBA Lab Architecture
+## <a id="oracle-dba-lab-architecture"></a>🧪 Oracle DBA Lab Architecture
 
 Every lab module in this repository follows a strict, end-to-end operational pipeline to ensure production readiness:
 
@@ -106,7 +106,7 @@ Every lab module in this repository follows a strict, end-to-end operational pip
 
 ---
 
-## 📚 Projects & Documentation
+## <a id="projects--documentation"></a>📚 Projects & Documentation
 
 <p align="center">
   <a href="https://github.com/peterkamal297-alt/oracle-dba-lab-portfolio/tree/main/01-linux-administration" title="Linux Admin">
@@ -146,8 +146,7 @@ Every lab module in this repository follows a strict, end-to-end operational pip
 
 ## 🔎 Detailed Deep-Dive Breakdown
 
-<div id="user-content-lab-01"></div>
-<details>
+<details id="lab-01">
   <summary><strong>01 — 🐧 Linux Administration (Foundation Layer)</strong></summary>
   <br>
   Designed to build the robust Linux baseline required for enterprise database hosting.
@@ -158,8 +157,7 @@ Every lab module in this repository follows a strict, end-to-end operational pip
   </ul>
 </details>
 
-<div id="user-content-lab-02"></div>
-<details>
+<details id="lab-02">
   <summary><strong>02 — 🗄️ Oracle Database 19c Installation</strong></summary>
   <br>
   Complete manual deployment of Oracle Database 19c Enterprise Edition on Linux.
@@ -170,8 +168,7 @@ Every lab module in this repository follows a strict, end-to-end operational pip
   </ul>
 </details>
 
-<div id="user-content-lab-03"></div>
-<details>
+<details id="lab-03">
   <summary><strong>03 — 👨‍💻 Oracle DBA Administration</strong></summary>
   <br>
   Day-to-day instance management, tuning, and structural maintenance.
@@ -182,8 +179,7 @@ Every lab module in this repository follows a strict, end-to-end operational pip
   </ul>
 </details>
 
-<div id="user-content-lab-04"></div>
-<details>
+<details id="lab-04">
   <summary><strong>04 — 💾 RMAN Backup & Recovery</strong></summary>
   <br>
   Robust disaster simulation and recovery management using Recovery Manager.
@@ -194,8 +190,7 @@ Every lab module in this repository follows a strict, end-to-end operational pip
   </ul>
 </details>
 
-<div id="user-content-lab-05"></div>
-<details>
+<details id="lab-05">
   <summary><strong>05 — 🔄 Oracle Data Guard</strong></summary>
   <br>
   High availability and disaster recovery architecture configuration.
@@ -206,8 +201,7 @@ Every lab module in this repository follows a strict, end-to-end operational pip
   </ul>
 </details>
 
-<div id="user-content-lab-06"></div>
-<details>
+<details id="lab-06">
   <summary><strong>06 — ⚡ Oracle RAC & Grid Infrastructure</strong></summary>
   <br>
   Scalable, fault-tolerant clustered database architecture.
@@ -218,8 +212,7 @@ Every lab module in this repository follows a strict, end-to-end operational pip
   </ul>
 </details>
 
-<div id="user-content-lab-07"></div>
-<details>
+<details id="lab-07">
   <summary><strong>07 — 📊 Oracle Enterprise Manager</strong></summary>
   <br>
   Centralized enterprise monitoring and management solution.
@@ -232,9 +225,7 @@ Every lab module in this repository follows a strict, end-to-end operational pip
 
 ---
 
-<div id="skills"></div>
-
-## 🛠️ Technical Skills Matrix
+## <a id="skills"></a>🛠️ Technical Skills Matrix
 
 | Domain | Core Technologies & Competencies |
 | :--- | :--- |
@@ -246,9 +237,7 @@ Every lab module in this repository follows a strict, end-to-end operational pip
 
 ---
 
-<div id="environment"></div>
-
-## 🖥️ Lab Environment Architecture
+## <a id="environment"></a>🖥️ Lab Environment Architecture
 
 - **Virtualization Layer:** VMware Workstation Pro / Virtual Machines
 - **Operating System:** Oracle Linux 8 (Enterprise Hardened Profile)
@@ -266,9 +255,7 @@ In addition to dedicated database administration, my professional background enc
 
 ---
 
-<div id="cv"></div>
-
-## 📄 Official CV & Resume
+## <a id="cv"></a>📄 Official CV & Resume
 
 <div align="center">
 
@@ -280,9 +267,7 @@ In addition to dedicated database administration, my professional background enc
 
 ---
 
-<div id="contact"></div>
-
-## 📫 Contact & Professional Networks
+## <a id="contact"></a>📫 Contact & Professional Networks
 
 <div align="center">
 
