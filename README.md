@@ -20,25 +20,25 @@
 
 <!-- شريط التقنيات التفاعلي (لما تدوس عليه بينقلك للجدول تحت مباشرة) -->
 <p align="center">
-  <a href="#01--linux-administration-foundation-layer" title="Go to Linux Admin Lab">
+  <a href="#user-content-lab-01" title="Go to Linux Admin Lab">
     <img src="https://img.shields.io/badge/Oracle%20Linux-8-FCC624?style=flat-square&logo=linux&logoColor=black"/>
   </a>
-  <a href="#02--oracle-database-19c-installation" title="Go to Oracle 19c Lab">
+  <a href="#user-content-lab-02" title="Go to Oracle 19c Lab">
     <img src="https://img.shields.io/badge/Oracle-19c-F80000?style=flat-square&logo=oracle&logoColor=white"/>
   </a>
-  <a href="#03--oracle-dba-administration" title="Go to DBA Admin Lab">
+  <a href="#user-content-lab-03" title="Go to DBA Admin Lab">
     <img src="https://img.shields.io/badge/DBA-Administration-0284C7?style=flat-square"/>
   </a>
-  <a href="#04--rman-backup--recovery" title="Go to RMAN Lab">
+  <a href="#user-content-lab-04" title="Go to RMAN Lab">
     <img src="https://img.shields.io/badge/RMAN-Backup%20%26%20Recovery-334155?style=flat-square"/>
   </a>
-  <a href="#05--oracle-data-guard" title="Go to Data Guard Lab">
+  <a href="#user-content-lab-05" title="Go to Data Guard Lab">
     <img src="https://img.shields.io/badge/Data%20Guard-High%20Availability-2563EB?style=flat-square"/>
   </a>
-  <a href="#06--oracle-rac--grid-infrastructure" title="Go to RAC Lab">
+  <a href="#user-content-lab-06" title="Go to RAC Lab">
     <img src="https://img.shields.io/badge/RAC-Grid%20Infrastructure-6D28D9?style=flat-square"/>
   </a>
-  <a href="#07--oracle-enterprise-manager" title="Go to OEM Lab">
+  <a href="#user-content-lab-07" title="Go to OEM Lab">
     <img src="https://img.shields.io/badge/OEM-13c-F59E0B?style=flat-square"/>
   </a>
 </p>
@@ -74,10 +74,10 @@
   <code><b>[</b></code> <a href="#about-me"><strong>About Me</strong></a> <code><b>]</b></code> &nbsp;&bull;&nbsp;
   <code><b>[</b></code> <a href="#oracle-dba-lab-architecture"><strong>Lab Workflow</strong></a> <code><b>]</b></code> &nbsp;&bull;&nbsp;
   <code><b>[</b></code> <a href="#projects--documentation"><strong>Projects & Docs</strong></a> <code><b>]</b></code> &nbsp;&bull;&nbsp;
-  <code><b>[</b></code> <a href="#-skills"><strong>Skills</strong></a> <code><b>]</b></code> &nbsp;&bull;&nbsp;
-  <code><b>[</b></code> <a href="#-environment"><strong>Environment</strong></a> <code><b>]</b></code> &nbsp;&bull;&nbsp;
-  <code><b>[</b></code> <a href="#-cv"><strong>CV</strong></a> <code><b>]</b></code> &nbsp;&bull;&nbsp;
-  <code><b>[</b></code> <a href="#-contact"><strong>Contact</strong></a> <code><b>]</b></code>
+  <code><b>[</b></code> <a href="#skills"><strong>Skills</strong></a> <code><b>]</b></code> &nbsp;&bull;&nbsp;
+  <code><b>[</b></code> <a href="#environment"><strong>Environment</strong></a> <code><b>]</b></code> &nbsp;&bull;&nbsp;
+  <code><b>[</b></code> <a href="#cv"><strong>CV</strong></a> <code><b>]</b></code> &nbsp;&bull;&nbsp;
+  <code><b>[</b></code> <a href="#contact"><strong>Contact</strong></a> <code><b>]</b></code>
 </p>
 
 ---
@@ -146,8 +146,9 @@ Every lab module in this repository follows a strict, end-to-end operational pip
 
 ## 🔎 Detailed Deep-Dive Breakdown
 
+<div id="user-content-lab-01"></div>
 <details>
-  <summary><strong id="01--linux-administration-foundation-layer">01 — 🐧 Linux Administration (Foundation Layer)</strong></summary>
+  <summary><strong>01 — 🐧 Linux Administration (Foundation Layer)</strong></summary>
   <br>
   Designed to build the robust Linux baseline required for enterprise database hosting.
   <br><br>
@@ -157,8 +158,9 @@ Every lab module in this repository follows a strict, end-to-end operational pip
   </ul>
 </details>
 
+<div id="user-content-lab-02"></div>
 <details>
-  <summary><strong id="02--oracle-database-19c-installation">02 — 🗄️ Oracle Database 19c Installation</strong></summary>
+  <summary><strong>02 — 🗄️ Oracle Database 19c Installation</strong></summary>
   <br>
   Complete manual deployment of Oracle Database 19c Enterprise Edition on Linux.
   <br><br>
@@ -168,8 +170,9 @@ Every lab module in this repository follows a strict, end-to-end operational pip
   </ul>
 </details>
 
+<div id="user-content-lab-03"></div>
 <details>
-  <summary><strong id="03--oracle-dba-administration">03 — 👨‍💻 Oracle DBA Administration</strong></summary>
+  <summary><strong>03 — 👨‍💻 Oracle DBA Administration</strong></summary>
   <br>
   Day-to-day instance management, tuning, and structural maintenance.
   <br><br>
@@ -179,8 +182,9 @@ Every lab module in this repository follows a strict, end-to-end operational pip
   </ul>
 </details>
 
+<div id="user-content-lab-04"></div>
 <details>
-  <summary><strong id="04--rman-backup--recovery">04 — 💾 RMAN Backup & Recovery</strong></summary>
+  <summary><strong>04 — 💾 RMAN Backup & Recovery</strong></summary>
   <br>
   Robust disaster simulation and recovery management using Recovery Manager.
   <br><br>
@@ -190,8 +194,9 @@ Every lab module in this repository follows a strict, end-to-end operational pip
   </ul>
 </details>
 
+<div id="user-content-lab-05"></div>
 <details>
-  <summary><strong id="05--oracle-data-guard">05 — 🔄 Oracle Data Guard</strong></summary>
+  <summary><strong>05 — 🔄 Oracle Data Guard</strong></summary>
   <br>
   High availability and disaster recovery architecture configuration.
   <br><br>
@@ -201,8 +206,9 @@ Every lab module in this repository follows a strict, end-to-end operational pip
   </ul>
 </details>
 
+<div id="user-content-lab-06"></div>
 <details>
-  <summary><strong id="06--oracle-rac--grid-infrastructure">06 — ⚡ Oracle RAC & Grid Infrastructure</strong></summary>
+  <summary><strong>06 — ⚡ Oracle RAC & Grid Infrastructure</strong></summary>
   <br>
   Scalable, fault-tolerant clustered database architecture.
   <br><br>
@@ -212,8 +218,9 @@ Every lab module in this repository follows a strict, end-to-end operational pip
   </ul>
 </details>
 
+<div id="user-content-lab-07"></div>
 <details>
-  <summary><strong id="07--oracle-enterprise-manager">07 — 📊 Oracle Enterprise Manager</strong></summary>
+  <summary><strong>07 — 📊 Oracle Enterprise Manager</strong></summary>
   <br>
   Centralized enterprise monitoring and management solution.
   <br><br>
@@ -225,7 +232,9 @@ Every lab module in this repository follows a strict, end-to-end operational pip
 
 ---
 
-## <a id="-skills"></a>🛠️ Technical Skills Matrix
+<div id="skills"></div>
+
+## 🛠️ Technical Skills Matrix
 
 | Domain | Core Technologies & Competencies |
 | :--- | :--- |
@@ -237,7 +246,9 @@ Every lab module in this repository follows a strict, end-to-end operational pip
 
 ---
 
-## <a id="-environment"></a>🖥️ Lab Environment Architecture
+<div id="environment"></div>
+
+## 🖥️ Lab Environment Architecture
 
 - **Virtualization Layer:** VMware Workstation Pro / Virtual Machines
 - **Operating System:** Oracle Linux 8 (Enterprise Hardened Profile)
@@ -255,7 +266,9 @@ In addition to dedicated database administration, my professional background enc
 
 ---
 
-## <a id="-cv"></a>📄 Official CV & Resume
+<div id="cv"></div>
+
+## 📄 Official CV & Resume
 
 <div align="center">
 
@@ -267,7 +280,9 @@ In addition to dedicated database administration, my professional background enc
 
 ---
 
-## <a id="-contact"></a>📫 Contact & Professional Networks
+<div id="contact"></div>
+
+## 📫 Contact & Professional Networks
 
 <div align="center">
 
