@@ -41,6 +41,9 @@
   <a href="https://github.com/peterkamal297-alt/oracle-dba-lab-portfolio/tree/main/07-oem" title="Go to OEM Lab" target="_blank">
     <img src="https://img.shields.io/badge/OEM-13c-F59E0B?style=flat-square"/>
   </a>
+  <a href="https://github.com/peterkamal297-alt/oracle-dba-lab-portfolio/raw/main/06-oracle-rac/data-guard-documented.pdf" title=" data-guard PDF" target="_blank">
+    <img src="https://img.shields.io/badge/📄_ data-guard-PDF-1E293B?style=flat-square"/>
+  </a>
 </p>
 
 <!-- شريط ملفات الـ PDF المباشرة للّابات -->
