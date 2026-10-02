@@ -45,11 +45,11 @@
 
 <!-- شريط ملفات الـ PDF المباشرة للّابات -->
 <p align="center">
+   <a href="https://github.com/peterkamal297-alt/oracle-dba-lab-portfolio/raw/main/01-linux-administration/linux-installation.pdf" title="Linux Install PDF" target="_blank">
+    <img src="https://img.shields.io/badge/📄_Linux_Install-PDF-1E293B?style=flat-square"/>
+  </a>
   <a href="https://github.com/peterkamal297-alt/oracle-dba-lab-portfolio/raw/main/01-linux-administration/linux-administration.pdf" title="Linux Admin PDF" target="_blank">
     <img src="https://img.shields.io/badge/📄_Linux_Admin-PDF-1E293B?style=flat-square"/>
-  </a>
-  <a href="https://github.com/peterkamal297-alt/oracle-dba-lab-portfolio/raw/main/01-linux-administration/linux-installation.pdf" title="Linux Install PDF" target="_blank">
-    <img src="https://img.shields.io/badge/📄_Linux_Install-PDF-1E293B?style=flat-square"/>
   </a>
   <a href="https://github.com/peterkamal297-alt/oracle-dba-lab-portfolio/raw/main/02-oracle-installation/oracle-installation.pdf" title="Oracle Installation PDF" target="_blank">
     <img src="https://img.shields.io/badge/📄_Oracle_19c_Install-PDF-F80000?style=flat-square"/>
@@ -60,11 +60,11 @@
   <a href="https://github.com/peterkamal297-alt/oracle-dba-lab-portfolio/raw/main/04-backup-recovery-rman/backup-recovery-rman.pdf" title="RMAN PDF" target="_blank">
     <img src="https://img.shields.io/badge/📄_RMAN_Backup-PDF-334155?style=flat-square"/>
   </a>
-  <a href="https://github.com/peterkamal297-alt/oracle-dba-lab-portfolio/raw/main/07-oem/oracle-enterprise-manager.pdf" title="OEM PDF" target="_blank">
-    <img src="https://img.shields.io/badge/📄_OEM_13c-PDF-F59E0B?style=flat-square"/>
-  </a>
   <a href="https://github.com/peterkamal297-alt/oracle-dba-lab-portfolio/raw/main/05-data-guard/data-guard-documented.pdf" title="Data Guard PDF" target="_blank">
     <img src="https://img.shields.io/badge/📄_Data_Guard-PDF-2563EB?style=flat-square"/>
+  </a>
+  <a href="https://github.com/peterkamal297-alt/oracle-dba-lab-portfolio/raw/main/07-oem/oracle-enterprise-manager.pdf" title="OEM PDF" target="_blank">
+    <img src="https://img.shields.io/badge/📄_OEM_13c-PDF-F59E0B?style=flat-square"/>
   </a>
 </p>
 
