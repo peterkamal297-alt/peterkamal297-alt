@@ -63,8 +63,8 @@
   <a href="https://github.com/peterkamal297-alt/oracle-dba-lab-portfolio/raw/main/07-oem/oracle-enterprise-manager.pdf" title="OEM PDF" target="_blank">
     <img src="https://img.shields.io/badge/📄_OEM_13c-PDF-F59E0B?style=flat-square"/>
   </a>
-  <a href="https://github.com/peterkamal297-alt/oracle-dba-lab-portfolio/raw/main/05-data-guard/data-guard-documented.pdf" title="data-guard PDF" target="_blank">
-    <img src="https://img.shields.io/badge/📄_ data-guard-PDF-1E293B?style=flat-square"/>
+  <a href="https://github.com/peterkamal297-alt/oracle-dba-lab-portfolio/raw/main/05-data-guard/data-guard-documented.pdf" title="Data Guard PDF" target="_blank">
+    <img src="https://img.shields.io/badge/📄_Data_Guard-PDF-2563EB?style=flat-square"/>
   </a>
 </p>
 
